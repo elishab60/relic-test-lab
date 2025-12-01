@@ -1,0 +1,12 @@
+[core]
+debug=true
+secret_key=insecure-secret-key-that-should-not-be-public
+
+[database]
+host=10.0.0.5
+user=root
+pass=root123
+
+[aws]
+bucket=sensitive-user-data
+region=us-east-1

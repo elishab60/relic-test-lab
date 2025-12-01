@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin
+Disallow: /debug
+Disallow: /debug/env-dump
+Disallow: /config-backup.txt
+Disallow: /backup-2025-11-30.env
